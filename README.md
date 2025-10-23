@@ -1,6 +1,6 @@
 ### Kassim Zainab Temitope
 
-Hi there! 👋 I’m Zainab Kassim Temitope, a **`FullStack Sofware Engineer`** and aspiring Cloud developer based in Nigeria. I have a passion for building applications from the ground up, ensuring both an enhanced user experience and a beautifully crafted design.
+Hi there! 👋 I’m Zainab Kassim Temitope, a **`FullStack Sofware Engineer`** and aspiring **`Cloud developer`** based in Nigeria. I have a passion for building applications from the ground up, ensuring both an enhanced user experience and a beautifully crafted design.
 
 ### Languages & Frameworks
 
