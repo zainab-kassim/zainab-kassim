@@ -1,20 +1,21 @@
-### Kassim Zainab Temitope
+**Hello <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="22"/> !**
 
-Hi there! 👋 I’m Zainab Kassim Temitope, a **`FullStack Sofware Engineer`** and aspiring **`Cloud developer`** based in Canada. I have a passion for building applications from the ground up, ensuring both an enhanced user experience and a beautifully crafted design.
+ I’m [*Kassim Zainab*](https://zainab-kassim.vercel.app/), a **`FullStack Sofware Engineer`** and aspiring **`Cloud developer`** based in Canada. I have a passion for building applications from the ground up, ensuring both an enhanced user experience and a beautifully crafted design.
 
-### Languages & Frameworks
+**Languages & Frameworks**
 
-<div align="left">
-   <img src="https://img.shields.io/badge/TailwindCSS-%2346A2F6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Rest APIs`
 
 
 ---
 Beyond my technical pursuits, I’m also a creative at heart, I enjoy drawing and appreciating artwork. Every day, I strive to improve myself and my skills, knowing that my only competition is who I was yesterday.
 
 I’m driven by the desire to make a difference, exploring new ways to build projects that help others. I also love reading, as many things fascinate me.
+
+---
+
+**Let's Connect**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://zainab-kassim.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kassimzainab11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-kassim/)
