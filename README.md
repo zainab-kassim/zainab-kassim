@@ -1,4 +1,5 @@
-**Hello <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="22"/> !**
+<img width="10%" alt="walking-guy (1)" src="https://github.com/user-attachments/assets/baec6eee-8d24-4a5c-8e34-f3171d8c0a3f" />
+
 
  I’m [*Kassim Zainab*](https://zainab-kassim.vercel.app/), a **`FullStack Sofware Engineer`** and aspiring **`Cloud developer`** based in Canada. I have a passion for building applications from the ground up, ensuring both an enhanced user experience and a beautifully crafted design.
 
