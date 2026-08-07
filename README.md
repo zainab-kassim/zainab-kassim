@@ -1,10 +1,11 @@
+
 <table>
   <tr>
     <td align="center" valign="middle">
       <img width="90" src="https://github.com/user-attachments/assets/baec6eee-8d24-4a5c-8e34-f3171d8c0a3f" />
     </td>
     <td align="center" valign="middle">
-      <img height="98" src="https://github.com/user-attachments/assets/b5b6f6ba-3468-45a3-b166-eceafbfcbed1" />
+      <img height="98" src="https://github.com/user-attachments/assets/2ccd33d8-58ef-4cc5-a67e-44350b048f60"/>
     </td>
   </tr>
 </table>
