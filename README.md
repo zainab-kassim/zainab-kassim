@@ -1,6 +1,15 @@
-<img width="10%" alt="walking-guy (1)" src="https://github.com/user-attachments/assets/baec6eee-8d24-4a5c-8e34-f3171d8c0a3f" />
-
-
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img width="90" src="https://github.com/user-attachments/assets/baec6eee-8d24-4a5c-8e34-f3171d8c0a3f" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="98" src="https://github.com/user-attachments/assets/b5b6f6ba-3468-45a3-b166-eceafbfcbed1" />
+    </td>
+  </tr>
+</table>
+<br/>
+   
  I’m [*Kassim Zainab*](https://zainab-kassim.vercel.app/), a **`FullStack Sofware Engineer`** and aspiring **`Cloud developer`** based in Canada. I have a passion for building applications from the ground up, ensuring both an enhanced user experience and a beautifully crafted design.
 
 **Languages & Frameworks**
