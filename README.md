@@ -5,7 +5,7 @@
       <img width="90" src="https://github.com/user-attachments/assets/baec6eee-8d24-4a5c-8e34-f3171d8c0a3f" />
     </td>
     <td align="center" valign="middle">
-    <img width="490" height="98" alt="wassaa (2)" src="https://github.com/user-attachments/assets/c03cc142-2cbf-446f-befb-bc0c0058d972" />
+    <img width="490" height="98" alt="wassaa" src="https://github.com/user-attachments/assets/2ccd33d8-58ef-4cc5-a67e-44350b048f60" />
     </td>
   </tr>
 </table>
