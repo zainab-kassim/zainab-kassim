@@ -5,7 +5,7 @@
       <img width="90" src="https://github.com/user-attachments/assets/baec6eee-8d24-4a5c-8e34-f3171d8c0a3f" />
     </td>
     <td align="center" valign="middle">
-      <img height="98" src="https://github.com/user-attachments/assets/2ccd33d8-58ef-4cc5-a67e-44350b048f60"/>
+    <img width="490" height="98" alt="wassaa (2)" src="https://github.com/user-attachments/assets/c03cc142-2cbf-446f-befb-bc0c0058d972" />
     </td>
   </tr>
 </table>
@@ -30,3 +30,4 @@ I’m driven by the desire to make a difference, exploring new ways to build pro
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://zainab-kassim.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kassimzainab11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-kassim/)
+&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/?size=100&id=23951&format=png&color=DC143C" align="right" alt="Icon" width="150">
